@@ -1,6 +1,6 @@
 
 
-## Original Screeshot from the video
+## Original Screeshot from the video.
 
 ![Original](https://user-images.githubusercontent.com/22385974/89303749-37e7f200-d68a-11ea-868e-64d642ff5e4c.PNG)
 
