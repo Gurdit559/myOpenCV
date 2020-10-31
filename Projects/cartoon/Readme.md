@@ -1,14 +1,14 @@
-# Convert an image into a cartoon format(steps explained below) 
+# Convert an image into a cartoon format(steps explained below).
 
-### Original Image
+### Original Image.
 
 ![carr](https://user-images.githubusercontent.com/22385974/92300036-52f19e80-ef75-11ea-89ae-5178ff1dc49a.png)
 
-### cartoon image
+### cartoon image.
 
 ![cartoon](https://user-images.githubusercontent.com/22385974/92300086-b2e84500-ef75-11ea-9969-84f1e9e64238.png)
 
-### Final output
+### Final output.
 
 ![st](https://user-images.githubusercontent.com/22385974/92300124-0064b200-ef76-11ea-8168-ef7a0a4b1da2.png)
 
